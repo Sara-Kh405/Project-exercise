@@ -1,0 +1,1963 @@
+{
+  "props": {
+    "pageProps": {
+      "appFallback": {
+        "{\"headers\":{\"Accept\":\"application/json\",\"Content-Type\":\"application/json\"},\"method\":\"GET\",\"url\":\"/static\"}": {
+          "data": {
+            "festival": null,
+            "megamenu": [
+              {
+                "id": 333221,
+                "name": "هوش مصنوعی و علم داده",
+                "slug": "data-science",
+                "icon": "https://faradars.org/wp-content/uploads/2025/08/17/1-artificial-intelligence-and-date-science.svg",
+                "url": "https://faradars.org/explore?category_ids=333221",
+                "mainurl": "https://faradars.org/how-to-learn/data-science",
+                "children": [
+                  {
+                    "id": 333319,
+                    "name": "هوش مصنوعی خلاق",
+                    "slug": "genarative-ai",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333319"
+                  },
+                  {
+                    "id": 333320,
+                    "name": "مدل‌های زبانی",
+                    "slug": "language-models",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333320"
+                  },
+                  {
+                    "id": 1060,
+                    "name": "آمار و داده کاوی",
+                    "slug": "data-mining-2",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=1060"
+                  },
+                  {
+                    "id": 333222,
+                    "name": "هوش مصنوعی",
+                    "slug": "artificial-intelligence",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333222"
+                  },
+                  {
+                    "id": 333227,
+                    "name": "یادگیری عمیق",
+                    "slug": "deep-learning",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333227"
+                  },
+                  {
+                    "id": 2038,
+                    "name": "یادگیری ماشین",
+                    "slug": "machine-learning",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=2038"
+                  },
+                  {
+                    "id": 333224,
+                    "name": "تحلیل داده",
+                    "slug": "data-analysis",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333224"
+                  },
+                  {
+                    "id": 1051,
+                    "name": "هوش محاسباتی",
+                    "slug": "computational-intelligence",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=1051"
+                  },
+                  {
+                    "id": 1054,
+                    "name": "شبکه‌های عصبی مصنوعی",
+                    "slug": "artificial-neural-networks-ann",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=1054"
+                  },
+                  {
+                    "id": 333228,
+                    "name": "رباتیک",
+                    "slug": "robotic",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333228"
+                  }
+                ]
+              },
+              {
+                "id": 333181,
+                "name": "طراحی",
+                "slug": "design",
+                "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1af35d5195-2-design.svg",
+                "url": "https://faradars.org/explore?category_ids=333181",
+                "mainurl": "https://faradars.org/how-to-learn/design",
+                "children": [
+                  {
+                    "id": 333275,
+                    "name": "پریمیر (Adobe Premiere)",
+                    "slug": "premiere",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333275"
+                  },
+                  {
+                    "id": 333276,
+                    "name": "افترافکت (Adobe After Effects)",
+                    "slug": "after-effects",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333276"
+                  },
+                  {
+                    "id": 3038,
+                    "name": "طراحی گرافیکی",
+                    "slug": "design-and-graphic",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=3038"
+                  },
+                  {
+                    "id": 333186,
+                    "name": "فتوشاپ (Adobe Photoshop)",
+                    "slug": "photoshop",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333186"
+                  },
+                  {
+                    "id": 333274,
+                    "name": "نرم‌افزارهای گرافیکی",
+                    "slug": "graphic-software",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333274"
+                  },
+                  {
+                    "id": 333277,
+                    "name": "کورل دراو (CorelDRAW)",
+                    "slug": "corel-draw",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333277"
+                  },
+                  {
+                    "id": 62169,
+                    "name": "طراحی سایت",
+                    "slug": "web-design",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=62169"
+                  },
+                  {
+                    "id": 333187,
+                    "name": "ایلاستریتور (Adobe Illustrator)",
+                    "slug": "illustrator",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333187"
+                  },
+                  {
+                    "id": 333137,
+                    "name": "طراحی لوگو",
+                    "slug": "logo-design",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333137"
+                  },
+                  {
+                    "id": 333188,
+                    "name": "نقاشی دیجیتال",
+                    "slug": "digital-painting",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333188"
+                  }
+                ]
+              },
+              {
+                "id": 1049,
+                "name": "برنامه‌نویسی",
+                "slug": "programming",
+                "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1af42d4dd4-3-programming.svg",
+                "url": "https://faradars.org/explore?category_ids=1049",
+                "mainurl": "https://faradars.org/how-to-learn/programming",
+                "children": [
+                  {
+                    "id": 70382,
+                    "name": "پایتون",
+                    "slug": "python",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=70382"
+                  },
+                  {
+                    "id": 333298,
+                    "name": "طراحی وب‌سایت بدون کد",
+                    "slug": "web-design-without-code",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333298"
+                  },
+                  {
+                    "id": 333162,
+                    "name": "وردپرس",
+                    "slug": "wordpress",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333162"
+                  },
+                  {
+                    "id": 333148,
+                    "name": "سی و سی‌پلاس‌پلاس",
+                    "slug": "c-and-c-plus-plus",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333148"
+                  },
+                  {
+                    "id": 333141,
+                    "name": "زبان‌های برنامه‌نویسی",
+                    "slug": "programming-languages",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333141"
+                  },
+                  {
+                    "id": 75095,
+                    "name": "ویژوال بیسیک و ویژوال بیسیک دات نت",
+                    "slug": "visual-basic",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=75095"
+                  },
+                  {
+                    "id": 75093,
+                    "name": "اندروید",
+                    "slug": "android-programming",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=75093"
+                  },
+                  {
+                    "id": 333153,
+                    "name": "سی‌اس‌اس",
+                    "slug": "css",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333153"
+                  },
+                  {
+                    "id": 333136,
+                    "name": "برنامه‌نویسی اسکرچ",
+                    "slug": "scratch-programming",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333136"
+                  },
+                  {
+                    "id": 75092,
+                    "name": "متلب",
+                    "slug": "matlab",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=75092"
+                  }
+                ]
+              },
+              {
+                "id": 333213,
+                "name": "توسعه فردی",
+                "slug": "individual-development",
+                "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1b06511e52-4-self-development.svg",
+                "url": "https://faradars.org/explore?category_ids=333213",
+                "mainurl": "https://faradars.org/how-to-learn/development-of-individual-skills",
+                "children": [
+                  {
+                    "id": 333214,
+                    "name": "رشد فردی",
+                    "slug": "personal-development",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333214"
+                  },
+                  {
+                    "id": 333216,
+                    "name": "مهارت‌های مطالعه",
+                    "slug": "perusal-skills",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333216"
+                  },
+                  {
+                    "id": 333103,
+                    "name": "عکاسی",
+                    "slug": "photography",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333103"
+                  },
+                  {
+                    "id": 333129,
+                    "name": "نقاشی",
+                    "slug": "painting",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333129"
+                  },
+                  {
+                    "id": 333138,
+                    "name": "خوشنویسی",
+                    "slug": "calligraphy",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333138"
+                  },
+                  {
+                    "id": 72249,
+                    "name": "سینما",
+                    "slug": "screenplay",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=72249"
+                  },
+                  {
+                    "id": 236973,
+                    "name": "هنر",
+                    "slug": "art",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=236973"
+                  },
+                  {
+                    "id": 333272,
+                    "name": "خیاطی",
+                    "slug": "tailoring",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333272"
+                  },
+                  {
+                    "id": 333273,
+                    "name": "صنایع دستی و هنرهای تزئینی",
+                    "slug": "handicrafts",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333273"
+                  },
+                  {
+                    "id": 333261,
+                    "name": "ورزش",
+                    "slug": "sports",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333261"
+                  }
+                ]
+              },
+              {
+                "id": 233937,
+                "name": "کسب‌و‌کار",
+                "slug": "business",
+                "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1b07c0f485-5-bussiness.svg",
+                "url": "https://faradars.org/explore?category_ids=233937",
+                "mainurl": "https://faradars.org/how-to-learn/startup-and-business",
+                "children": [
+                  {
+                    "id": 333301,
+                    "name": "بازاریابی شبکه‌های اجتماعی",
+                    "slug": "social-media-marketing",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333301"
+                  },
+                  {
+                    "id": 333194,
+                    "name": "مهارت‌های بازار کار",
+                    "slug": "labor-skills",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333194"
+                  },
+                  {
+                    "id": 333125,
+                    "name": "سرویس های گوگل",
+                    "slug": "google-services",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333125"
+                  },
+                  {
+                    "id": 333318,
+                    "name": "ابزارهای هوش مصنوعی",
+                    "slug": "ai-tools",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333318"
+                  },
+                  {
+                    "id": 333207,
+                    "name": "تولید محتوا",
+                    "slug": "content-production",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333207"
+                  },
+                  {
+                    "id": 333215,
+                    "name": "رزومه و CV",
+                    "slug": "resume-and-cv",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333215"
+                  },
+                  {
+                    "id": 333117,
+                    "name": "اکسل (Excel)",
+                    "slug": "excel",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333117"
+                  },
+                  {
+                    "id": 333111,
+                    "name": "تدوین فیلم و ادیت عکس",
+                    "slug": "video-editing-photo-editing",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333111"
+                  },
+                  {
+                    "id": 2612,
+                    "name": "آموزش‌های عمومی",
+                    "slug": "general-courses",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=2612"
+                  },
+                  {
+                    "id": 333123,
+                    "name": "ورد (Word)",
+                    "slug": "word",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333123"
+                  }
+                ]
+              },
+              {
+                "id": 235656,
+                "name": "زبان",
+                "slug": "language",
+                "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1b08ccf4ee-6-language.svg",
+                "url": "https://faradars.org/explore?category_ids=235656",
+                "mainurl": "https://faradars.org/how-to-learn/language-collection",
+                "children": [
+                  {
+                    "id": 333295,
+                    "name": "آیلتس (IELTS)",
+                    "slug": "ielts",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333295"
+                  },
+                  {
+                    "id": 333139,
+                    "name": "آمادگی آزمون‌های زبان",
+                    "slug": "foreign-language-tests-preparation",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333139"
+                  },
+                  {
+                    "id": 333106,
+                    "name": "زبان انگلیسی",
+                    "slug": "english-language",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333106"
+                  },
+                  {
+                    "id": 333108,
+                    "name": "زبان آلمانی",
+                    "slug": "german-language",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333108"
+                  },
+                  {
+                    "id": 333116,
+                    "name": "زبان چینی",
+                    "slug": "chinese-language",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333116"
+                  },
+                  {
+                    "id": 333118,
+                    "name": "زبان عربی",
+                    "slug": "arabic-language",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333118"
+                  },
+                  {
+                    "id": 333110,
+                    "name": "زبان ترکی",
+                    "slug": "turkish-language",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333110"
+                  },
+                  {
+                    "id": 333107,
+                    "name": "زبان فرانسه",
+                    "slug": "french-language",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333107"
+                  },
+                  {
+                    "id": 333254,
+                    "name": "زبان ایتالیایی",
+                    "slug": "italian-language",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333254"
+                  },
+                  {
+                    "id": 333127,
+                    "name": "زبان اسپانیایی",
+                    "slug": "spanish",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333127"
+                  }
+                ]
+              },
+              {
+                "id": 333230,
+                "name": "آموزش‌های دانشگاهی",
+                "slug": "academic-courses",
+                "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1b0a1606e1-7-university.svg",
+                "url": "https://faradars.org/explore?category_ids=333230",
+                "mainurl": "https://faradars.org/how-to-learn/academic-courses",
+                "children": [
+                  {
+                    "id": 19815,
+                    "name": "دروس مشترک دانشگاهی",
+                    "slug": "university-exam-general",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=19815"
+                  },
+                  {
+                    "id": 19817,
+                    "name": "کارشناسی ارشد مهندسی برق",
+                    "slug": "university-exam-electrical",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=19817"
+                  },
+                  {
+                    "id": 1061,
+                    "name": "مهندسی صنایع",
+                    "slug": "industrial-engineering",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=1061"
+                  },
+                  {
+                    "id": 19816,
+                    "name": "کارشناسی ارشد مهندسی کامپیوتر",
+                    "slug": "university-exam-computer",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=19816"
+                  },
+                  {
+                    "id": 333308,
+                    "name": "علوم کامپیوتر",
+                    "slug": "computer-science",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333308"
+                  },
+                  {
+                    "id": 19818,
+                    "name": "کارشناسی ارشد عمران، صنایع و مکانیک",
+                    "slug": "university-exam-civil-industrial-mechanical",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=19818"
+                  },
+                  {
+                    "id": 333235,
+                    "name": "مهارت‌های دانشگاهی",
+                    "slug": "academic-skills",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333235"
+                  },
+                  {
+                    "id": 54234,
+                    "name": "مهندسی کامپیوتر",
+                    "slug": "computer-engineering",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=54234"
+                  },
+                  {
+                    "id": 92090,
+                    "name": "نگارش دانشگاهی",
+                    "slug": "academic-writing",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=92090"
+                  },
+                  {
+                    "id": 210919,
+                    "name": "روانشناسی",
+                    "slug": "psychology",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=210919"
+                  }
+                ]
+              },
+              {
+                "id": 54236,
+                "name": "نرم‌افزار و فناوری اطلاعات",
+                "slug": "information-technology",
+                "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1b0b9ee574-8-information-technology.svg",
+                "url": "https://faradars.org/explore?category_ids=54236",
+                "mainurl": "https://faradars.org/how-to-learn/software-and-information-technology ",
+                "children": [
+                  {
+                    "id": 333179,
+                    "name": "لینوکس",
+                    "slug": "linux",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333179"
+                  },
+                  {
+                    "id": 333170,
+                    "name": "سیستم عامل",
+                    "slug": "operating-system",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333170"
+                  },
+                  {
+                    "id": 333169,
+                    "name": "سخت‌افزار",
+                    "slug": "hardware",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333169"
+                  },
+                  {
+                    "id": 54235,
+                    "name": "شبکه‌های کامپیوتری",
+                    "slug": "computer-network",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=54235"
+                  },
+                  {
+                    "id": 333173,
+                    "name": "آردوینو",
+                    "slug": "arduino",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333173"
+                  },
+                  {
+                    "id": 333176,
+                    "name": "میکروکنترلر",
+                    "slug": "microcontroler",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333176"
+                  },
+                  {
+                    "id": 333171,
+                    "name": "مایکروسافت",
+                    "slug": "microsoft",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333171"
+                  },
+                  {
+                    "id": 333180,
+                    "name": "ویندوز سرور",
+                    "slug": "windows-server",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333180"
+                  },
+                  {
+                    "id": 333168,
+                    "name": "گواهینامه‌های IT",
+                    "slug": "it-certifications",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333168"
+                  },
+                  {
+                    "id": 333174,
+                    "name": "اینترنت اشیا",
+                    "slug": "internet-of-things",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333174"
+                  }
+                ]
+              },
+              {
+                "id": 333209,
+                "name": "اقتصاد و حسابداری",
+                "slug": "economics-and-accounting",
+                "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1b11f05db5-9-economincs-and-accounting.svg",
+                "url": "https://faradars.org/explore?category_ids=333209",
+                "mainurl": "https://faradars.org/how-to-learn/academic-courses",
+                "children": [
+                  {
+                    "id": 333101,
+                    "name": "ارزهای دیجیتال",
+                    "slug": "digital-currency",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333101"
+                  },
+                  {
+                    "id": 196579,
+                    "name": "بورس و بازار مالی",
+                    "slug": "stock-market",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=196579"
+                  },
+                  {
+                    "id": 216663,
+                    "name": "حسابداری و حسابرسی",
+                    "slug": "accounting",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=216663"
+                  },
+                  {
+                    "id": 333211,
+                    "name": "تحلیل بورس",
+                    "slug": "stock-market-analysis",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333211"
+                  },
+                  {
+                    "id": 2926,
+                    "name": "علوم اقتصادی و مالی",
+                    "slug": "economics-and-finance",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=2926"
+                  },
+                  {
+                    "id": 333210,
+                    "name": "آنالیز مالی",
+                    "slug": "financial-analysis",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333210"
+                  },
+                  {
+                    "id": 333290,
+                    "name": "متاتریدر",
+                    "slug": "meta-trader",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333290"
+                  },
+                  {
+                    "id": 333212,
+                    "name": "سرمایه‌گذاری",
+                    "slug": "investment",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333212"
+                  }
+                ]
+              },
+              {
+                "id": 333220,
+                "name": "کودکان و نوجوانان",
+                "slug": "children-and-teenagers",
+                "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1b14d7b00e-10-children-and-adolescents.svg",
+                "url": "https://faradars.org/explore?category_ids=333220",
+                "mainurl": "https://faradars.org/how-to-learn/students-and-teenagers",
+                "children": [
+                  {
+                    "id": 3099,
+                    "name": "مهارت‌های کودکان و نوجوانان",
+                    "slug": "faradars-for-k12",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=3099"
+                  },
+                  {
+                    "id": 333249,
+                    "name": "دروس دانش‌آموزی",
+                    "slug": "school-and-high-school-courses",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333249"
+                  },
+                  {
+                    "id": 333255,
+                    "name": "پایه هفتم",
+                    "slug": "7th-grade",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333255"
+                  },
+                  {
+                    "id": 333256,
+                    "name": "پایه هشتم",
+                    "slug": "8th-grade",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333256"
+                  },
+                  {
+                    "id": 333257,
+                    "name": "پایه نهم",
+                    "slug": "9th-grade",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333257"
+                  },
+                  {
+                    "id": 333258,
+                    "name": "پایه دهم",
+                    "slug": "10th-grade",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333258"
+                  },
+                  {
+                    "id": 333259,
+                    "name": "پایه یازدهم",
+                    "slug": "11th-grade",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333259"
+                  },
+                  {
+                    "id": 333260,
+                    "name": "پایه دوازدهم",
+                    "slug": "12th-grade",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333260"
+                  },
+                  {
+                    "id": 333299,
+                    "name": "کنکور کارشناسی و المپیاد",
+                    "slug": "concours-and-olympiad-of--bachelor",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333299"
+                  },
+                  {
+                    "id": 333250,
+                    "name": "دوره ابتدایی",
+                    "slug": "primary-school",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=333250"
+                  }
+                ]
+              },
+              {
+                "id": 319809,
+                "name": "نابینایان و ناشنوایان",
+                "slug": "blind-and-deaf",
+                "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1b15f60d6e-11-blinds-and-deafs.svg",
+                "url": "https://faradars.org/explore?category_ids=319809",
+                "mainurl": "https://faradars.org/how-to-learn/for-blind-and-deaf",
+                "children": [
+                  {
+                    "id": 320109,
+                    "name": "ناشنوایان",
+                    "slug": "deaf",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=320109"
+                  },
+                  {
+                    "id": 320108,
+                    "name": "نابینایان",
+                    "slug": "blind",
+                    "icon": "",
+                    "url": "https://faradars.org/explore?category_ids=320108"
+                  }
+                ]
+              }
+            ],
+            "statistics": {
+              "categoriesCount": 300,
+              "countOfProducts": 19000,
+              "sumOfProductTimes": 35000,
+              "studentsCount": 5100000,
+              "instructorsCount": 3200,
+              "sumOfRegisteredProductTimes": 85000000,
+              "learningDurationPhysicalBenchmark": 48,
+              "productsVelocityPublication": 420,
+              "studentsCourseCount": 14000000,
+              "faradarsBornYear": "1387",
+              "faradarsBornMonth": "آذر",
+              "faradarsAgeDay": 6511.027405099803,
+              "faradarsAgeYear": 17.82747234273919,
+              "updateDateStatic": "1405/6/28",
+              "updateTimeStatic": "14:30"
+            },
+            "footer": {
+              "links": [
+                {
+                  "title": "تماس با ما",
+                  "address": "/contact-us",
+                  "image": null
+                },
+                {
+                  "title": "سوالات رایج",
+                  "address": "/faq",
+                  "image": null
+                },
+                {
+                  "title": "همکاری در فرادرس",
+                  "address": "/jobs",
+                  "image": null
+                },
+                {
+                  "title": "تدریس در فرادرس",
+                  "address": "/teaching",
+                  "image": null
+                },
+                {
+                  "title": "اشتراک فرادرس",
+                  "address": "/subscription",
+                  "image": null
+                },
+                {
+                  "title": "درباره ما",
+                  "address": "/about-us",
+                  "image": null
+                },
+                {
+                  "title": "آموزش سازمانی",
+                  "address": "/faradars-for-organizations",
+                  "image": null
+                },
+                {
+                  "title": "حریم خصوصی",
+                  "address": "/privacy-policy",
+                  "image": null
+                },
+                {
+                  "title": "مجله فرادرس",
+                  "address": "https://blog.faradars.org/",
+                  "image": null
+                },
+                {
+                  "title": "استعلام گواهینامه",
+                  "address": "/verify",
+                  "image": null
+                }
+              ],
+              "content": {
+                "summary": "<p style=\"text-align:justify\">سازمان علمی و آموزشی فرادرس، بزرگ&zwnj;ترین پلتفرم آموزش آنلاین ایران است که طی بیش از یک دهه فعالیت خود، بالغ بر {{sumOfProductTimes}} ساعت آموزش آنلاین، در قالب بیش از {{countOfProducts}} عنوان آموزشی علمی، مهارتی و کاربردی، منتشر کرده&zwnj;است.</p>",
+                "description": "<p style=\"text-align:justify\">فرادرس با پایبندی به شعار &laquo;دانش در دسترس همه، همیشه و همه جا&raquo; و همکاری با بیش از {{instructorsCount}} مدرس برجسته در&nbsp;<a class=\"text-[#1e88e5]\" href=\"/explore-topics\">زمینه&zwnj;های علمی گوناگون </a>از جمله:&nbsp;<a class=\"text-[#1e88e5]\" href=\"/how-to-learn/statistics\">آمار و داده&zwnj;کاوی</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/artificial-intelligence\">هوش مصنوعی</a>،&nbsp;<a class=\"text-[#1e88e5]\" href=\"/how-to-learn/programming\">برنامه&zwnj;نویسی</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/photoshop-computer-design-and-graphics\">طراحی و گرافیک کامپیوتری</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/academic-courses\">آموزش&zwnj;های دانشگاهی و تخصصی</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/computer-applications\">آموزش نرم&zwnj;افزارهای گوناگون</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/high-school-and-pre-university-courses\">دروس رسمی دبیرستان و پیش دانشگاهی</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/students-and-teenagers\">آموزش&zwnj;های دانش&zwnj;آموزی و نوجوانان</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/foreign-languages\">آموزش زبان&zwnj;های خارجی</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/electrical-engineering-software\">مهندسی برق، الکترونیک</a> و <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/robotics\">رباتیک</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/control-engineering\">مهندسی کنترل</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/mechanical-engineering\">مهندسی مکانیک</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/chemical-engineering\">مهندسی شیمی</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/industrial-engineering\">مهندسی صنایع</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/architect-engineering\">مهندسی معماری</a> و <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/civil-engineering\">مهندسی عمران</a>، بستری را فراهم کرده&zwnj;است تا افراد با شرایط مختلف زمانی، مکانی و جسمانی، بتوانند با بهره&zwnj;گیری از آموزش&zwnj;های با کیفیت، به&zwnj;روز و مهارت&zwnj;محور، همواره به یادگیری بپردازند.</p>\r\n\r\n<p style=\"text-align:justify\">با پیوستن به جامعه&zwnj;ی میلیونی فرادرس و استفاده از آموزش&zwnj;های آن، می&zwnj;توانید مسیر یادگیری و مهارت&zwnj;آموزی را ساده&zwnj;تر و مؤثرتر تجربه کنید.</p>"
+              },
+              "register_in_newsletter": true,
+              "brand": {
+                "description": "FaraDars",
+                "image": "https://faradars.org/wp-content/uploads/2026/09/08/faradars.svg"
+              },
+              "permissions": [
+                {
+                  "title": "مجوز نشر دیجیتال از وزرات فرهنگ و ارشاد اسلامی",
+                  "address": "https://trustseal.enamad.ir/?id=171748&amp;Code=lSjvcedOpnpW6NHqnXD7",
+                  "image": "https://faradars.org/wp-content/uploads/2023/01/12/5ff756287da19-nashr-min.png"
+                },
+                {
+                  "title": "logo-samandehi",
+                  "address": "https://logo.samandehi.ir/logo.aspx?id=34927&p=qftishwlbsiyodrfyndt",
+                  "image": "https://faradars.org/wp-content/uploads/2023/05/03/screenshot 2023-05-03 at 2.33.21 pm.png"
+                }
+              ],
+              "social": null
+            }
+          },
+          "status": true
+        },
+        "{\"headers\":{\"Accept\":\"application/json\",\"Content-Type\":\"application/json\"},\"method\":\"GET\",\"url\":\"/homepage/top-banner\"}": {
+          "status": true,
+          "data": {
+            "read_from_festival": false,
+            "is_active": true,
+            "banner": {
+              "external_image_x_small": "https://faradars.org/wp-content/uploads/2026/08/24/6.svg",
+              "external_image_x_small_png": "9372440",
+              "external_image_small": "https://faradars.org/wp-content/uploads/2026/08/24/5.svg",
+              "external_image_small_png": "9372438",
+              "external_image_medium": "https://faradars.org/wp-content/uploads/2026/08/24/4.svg",
+              "external_image_medium_png": "9372436",
+              "external_image_large": "https://faradars.org/wp-content/uploads/2026/08/24/3.svg",
+              "external_image_large_png": "9372434",
+              "external_image_x_large": "https://faradars.org/wp-content/uploads/2026/08/24/2.svg",
+              "external_image_x_large_png": "9372432",
+              "external_image_xx_large": "https://faradars.org/wp-content/uploads/2026/08/24/1.svg",
+              "external_image_xx_large_png": "9372430",
+              "title": "دسترسی نامحدود به تمام آموزش های فرادرس با 75% تخفیف",
+              "url": "https://faradars.org/subscription",
+              "type": "custom",
+              "slug": "custom",
+              "has_banner": true,
+              "has_landing": false,
+              "is_active": true,
+              "time_period": {
+                "start_at": "2026-06-14T06:30:00.000000Z",
+                "expire_at": "2026-09-19T22:30:00.000000Z"
+              },
+              "expire_time": 1789857000,
+              "custom_details": {
+                "clock_main_number_color": "#0A3D6B",
+                "clock_main_text_color": "#2A5DD8"
+              }
+            }
+          }
+        },
+        "{\"headers\":{\"Accept\":\"application/json\",\"Content-Type\":\"application/json\"},\"method\":\"GET\",\"url\":\"/footer\"}": {
+          "data": {
+            "links": [
+              {
+                "title": "تماس با ما",
+                "address": "/contact-us",
+                "image": null
+              },
+              {
+                "title": "سوالات رایج",
+                "address": "/faq",
+                "image": null
+              },
+              {
+                "title": "همکاری در فرادرس",
+                "address": "/jobs",
+                "image": null
+              },
+              {
+                "title": "تدریس در فرادرس",
+                "address": "/teaching",
+                "image": null
+              },
+              {
+                "title": "اشتراک فرادرس",
+                "address": "/subscription",
+                "image": null
+              },
+              {
+                "title": "درباره ما",
+                "address": "/about-us",
+                "image": null
+              },
+              {
+                "title": "آموزش سازمانی",
+                "address": "/faradars-for-organizations",
+                "image": null
+              },
+              {
+                "title": "حریم خصوصی",
+                "address": "/privacy-policy",
+                "image": null
+              },
+              {
+                "title": "مجله فرادرس",
+                "address": "https://blog.faradars.org/",
+                "image": null
+              },
+              {
+                "title": "استعلام گواهینامه",
+                "address": "/verify",
+                "image": null
+              }
+            ],
+            "content": {
+              "summary": "<p style=\"text-align:justify\">سازمان علمی و آموزشی فرادرس، بزرگ&zwnj;ترین پلتفرم آموزش آنلاین ایران است که طی بیش از یک دهه فعالیت خود، بالغ بر {{sumOfProductTimes}} ساعت آموزش آنلاین، در قالب بیش از {{countOfProducts}} عنوان آموزشی علمی، مهارتی و کاربردی، منتشر کرده&zwnj;است.</p>",
+              "description": "<p style=\"text-align:justify\">فرادرس با پایبندی به شعار &laquo;دانش در دسترس همه، همیشه و همه جا&raquo; و همکاری با بیش از {{instructorsCount}} مدرس برجسته در&nbsp;<a class=\"text-[#1e88e5]\" href=\"/explore-topics\">زمینه&zwnj;های علمی گوناگون </a>از جمله:&nbsp;<a class=\"text-[#1e88e5]\" href=\"/how-to-learn/statistics\">آمار و داده&zwnj;کاوی</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/artificial-intelligence\">هوش مصنوعی</a>،&nbsp;<a class=\"text-[#1e88e5]\" href=\"/how-to-learn/programming\">برنامه&zwnj;نویسی</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/photoshop-computer-design-and-graphics\">طراحی و گرافیک کامپیوتری</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/academic-courses\">آموزش&zwnj;های دانشگاهی و تخصصی</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/computer-applications\">آموزش نرم&zwnj;افزارهای گوناگون</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/high-school-and-pre-university-courses\">دروس رسمی دبیرستان و پیش دانشگاهی</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/students-and-teenagers\">آموزش&zwnj;های دانش&zwnj;آموزی و نوجوانان</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/foreign-languages\">آموزش زبان&zwnj;های خارجی</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/electrical-engineering-software\">مهندسی برق، الکترونیک</a> و <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/robotics\">رباتیک</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/control-engineering\">مهندسی کنترل</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/mechanical-engineering\">مهندسی مکانیک</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/chemical-engineering\">مهندسی شیمی</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/industrial-engineering\">مهندسی صنایع</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/architect-engineering\">مهندسی معماری</a> و <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/civil-engineering\">مهندسی عمران</a>، بستری را فراهم کرده&zwnj;است تا افراد با شرایط مختلف زمانی، مکانی و جسمانی، بتوانند با بهره&zwnj;گیری از آموزش&zwnj;های با کیفیت، به&zwnj;روز و مهارت&zwnj;محور، همواره به یادگیری بپردازند.</p>\r\n\r\n<p style=\"text-align:justify\">با پیوستن به جامعه&zwnj;ی میلیونی فرادرس و استفاده از آموزش&zwnj;های آن، می&zwnj;توانید مسیر یادگیری و مهارت&zwnj;آموزی را ساده&zwnj;تر و مؤثرتر تجربه کنید.</p>"
+            },
+            "register_in_newsletter": true,
+            "brand": {
+              "description": "FaraDars",
+              "image": "https://faradars.org/wp-content/uploads/2026/09/08/faradars.svg"
+            },
+            "permissions": [
+              {
+                "title": "مجوز نشر دیجیتال از وزرات فرهنگ و ارشاد اسلامی",
+                "address": "https://trustseal.enamad.ir/?id=171748&amp;Code=lSjvcedOpnpW6NHqnXD7",
+                "image": "https://faradars.org/wp-content/uploads/2023/01/12/5ff756287da19-nashr-min.png"
+              },
+              {
+                "title": "logo-samandehi",
+                "address": "https://logo.samandehi.ir/logo.aspx?id=34927&p=qftishwlbsiyodrfyndt",
+                "image": "https://faradars.org/wp-content/uploads/2023/05/03/screenshot 2023-05-03 at 2.33.21 pm.png"
+              }
+            ],
+            "social": null
+          },
+          "status": true
+        }
+      },
+      "static_layout": {
+        "data": {
+          "festival": null,
+          "megamenu": [
+            {
+              "id": 333221,
+              "name": "هوش مصنوعی و علم داده",
+              "slug": "data-science",
+              "icon": "https://faradars.org/wp-content/uploads/2025/08/17/1-artificial-intelligence-and-date-science.svg",
+              "url": "https://faradars.org/explore?category_ids=333221",
+              "mainurl": "https://faradars.org/how-to-learn/data-science",
+              "children": [
+                {
+                  "id": 333319,
+                  "name": "هوش مصنوعی خلاق",
+                  "slug": "genarative-ai",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333319"
+                },
+                {
+                  "id": 333320,
+                  "name": "مدل‌های زبانی",
+                  "slug": "language-models",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333320"
+                },
+                {
+                  "id": 1060,
+                  "name": "آمار و داده کاوی",
+                  "slug": "data-mining-2",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=1060"
+                },
+                {
+                  "id": 333222,
+                  "name": "هوش مصنوعی",
+                  "slug": "artificial-intelligence",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333222"
+                },
+                {
+                  "id": 333227,
+                  "name": "یادگیری عمیق",
+                  "slug": "deep-learning",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333227"
+                },
+                {
+                  "id": 2038,
+                  "name": "یادگیری ماشین",
+                  "slug": "machine-learning",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=2038"
+                },
+                {
+                  "id": 333224,
+                  "name": "تحلیل داده",
+                  "slug": "data-analysis",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333224"
+                },
+                {
+                  "id": 1051,
+                  "name": "هوش محاسباتی",
+                  "slug": "computational-intelligence",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=1051"
+                },
+                {
+                  "id": 1054,
+                  "name": "شبکه‌های عصبی مصنوعی",
+                  "slug": "artificial-neural-networks-ann",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=1054"
+                },
+                {
+                  "id": 333228,
+                  "name": "رباتیک",
+                  "slug": "robotic",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333228"
+                }
+              ]
+            },
+            {
+              "id": 333181,
+              "name": "طراحی",
+              "slug": "design",
+              "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1af35d5195-2-design.svg",
+              "url": "https://faradars.org/explore?category_ids=333181",
+              "mainurl": "https://faradars.org/how-to-learn/design",
+              "children": [
+                {
+                  "id": 333275,
+                  "name": "پریمیر (Adobe Premiere)",
+                  "slug": "premiere",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333275"
+                },
+                {
+                  "id": 333276,
+                  "name": "افترافکت (Adobe After Effects)",
+                  "slug": "after-effects",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333276"
+                },
+                {
+                  "id": 3038,
+                  "name": "طراحی گرافیکی",
+                  "slug": "design-and-graphic",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=3038"
+                },
+                {
+                  "id": 333186,
+                  "name": "فتوشاپ (Adobe Photoshop)",
+                  "slug": "photoshop",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333186"
+                },
+                {
+                  "id": 333274,
+                  "name": "نرم‌افزارهای گرافیکی",
+                  "slug": "graphic-software",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333274"
+                },
+                {
+                  "id": 333277,
+                  "name": "کورل دراو (CorelDRAW)",
+                  "slug": "corel-draw",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333277"
+                },
+                {
+                  "id": 62169,
+                  "name": "طراحی سایت",
+                  "slug": "web-design",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=62169"
+                },
+                {
+                  "id": 333187,
+                  "name": "ایلاستریتور (Adobe Illustrator)",
+                  "slug": "illustrator",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333187"
+                },
+                {
+                  "id": 333137,
+                  "name": "طراحی لوگو",
+                  "slug": "logo-design",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333137"
+                },
+                {
+                  "id": 333188,
+                  "name": "نقاشی دیجیتال",
+                  "slug": "digital-painting",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333188"
+                }
+              ]
+            },
+            {
+              "id": 1049,
+              "name": "برنامه‌نویسی",
+              "slug": "programming",
+              "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1af42d4dd4-3-programming.svg",
+              "url": "https://faradars.org/explore?category_ids=1049",
+              "mainurl": "https://faradars.org/how-to-learn/programming",
+              "children": [
+                {
+                  "id": 70382,
+                  "name": "پایتون",
+                  "slug": "python",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=70382"
+                },
+                {
+                  "id": 333298,
+                  "name": "طراحی وب‌سایت بدون کد",
+                  "slug": "web-design-without-code",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333298"
+                },
+                {
+                  "id": 333162,
+                  "name": "وردپرس",
+                  "slug": "wordpress",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333162"
+                },
+                {
+                  "id": 333148,
+                  "name": "سی و سی‌پلاس‌پلاس",
+                  "slug": "c-and-c-plus-plus",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333148"
+                },
+                {
+                  "id": 333141,
+                  "name": "زبان‌های برنامه‌نویسی",
+                  "slug": "programming-languages",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333141"
+                },
+                {
+                  "id": 75095,
+                  "name": "ویژوال بیسیک و ویژوال بیسیک دات نت",
+                  "slug": "visual-basic",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=75095"
+                },
+                {
+                  "id": 75093,
+                  "name": "اندروید",
+                  "slug": "android-programming",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=75093"
+                },
+                {
+                  "id": 333153,
+                  "name": "سی‌اس‌اس",
+                  "slug": "css",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333153"
+                },
+                {
+                  "id": 333136,
+                  "name": "برنامه‌نویسی اسکرچ",
+                  "slug": "scratch-programming",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333136"
+                },
+                {
+                  "id": 75092,
+                  "name": "متلب",
+                  "slug": "matlab",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=75092"
+                }
+              ]
+            },
+            {
+              "id": 333213,
+              "name": "توسعه فردی",
+              "slug": "individual-development",
+              "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1b06511e52-4-self-development.svg",
+              "url": "https://faradars.org/explore?category_ids=333213",
+              "mainurl": "https://faradars.org/how-to-learn/development-of-individual-skills",
+              "children": [
+                {
+                  "id": 333214,
+                  "name": "رشد فردی",
+                  "slug": "personal-development",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333214"
+                },
+                {
+                  "id": 333216,
+                  "name": "مهارت‌های مطالعه",
+                  "slug": "perusal-skills",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333216"
+                },
+                {
+                  "id": 333103,
+                  "name": "عکاسی",
+                  "slug": "photography",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333103"
+                },
+                {
+                  "id": 333129,
+                  "name": "نقاشی",
+                  "slug": "painting",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333129"
+                },
+                {
+                  "id": 333138,
+                  "name": "خوشنویسی",
+                  "slug": "calligraphy",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333138"
+                },
+                {
+                  "id": 72249,
+                  "name": "سینما",
+                  "slug": "screenplay",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=72249"
+                },
+                {
+                  "id": 236973,
+                  "name": "هنر",
+                  "slug": "art",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=236973"
+                },
+                {
+                  "id": 333272,
+                  "name": "خیاطی",
+                  "slug": "tailoring",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333272"
+                },
+                {
+                  "id": 333273,
+                  "name": "صنایع دستی و هنرهای تزئینی",
+                  "slug": "handicrafts",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333273"
+                },
+                {
+                  "id": 333261,
+                  "name": "ورزش",
+                  "slug": "sports",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333261"
+                }
+              ]
+            },
+            {
+              "id": 233937,
+              "name": "کسب‌و‌کار",
+              "slug": "business",
+              "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1b07c0f485-5-bussiness.svg",
+              "url": "https://faradars.org/explore?category_ids=233937",
+              "mainurl": "https://faradars.org/how-to-learn/startup-and-business",
+              "children": [
+                {
+                  "id": 333301,
+                  "name": "بازاریابی شبکه‌های اجتماعی",
+                  "slug": "social-media-marketing",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333301"
+                },
+                {
+                  "id": 333194,
+                  "name": "مهارت‌های بازار کار",
+                  "slug": "labor-skills",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333194"
+                },
+                {
+                  "id": 333125,
+                  "name": "سرویس های گوگل",
+                  "slug": "google-services",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333125"
+                },
+                {
+                  "id": 333318,
+                  "name": "ابزارهای هوش مصنوعی",
+                  "slug": "ai-tools",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333318"
+                },
+                {
+                  "id": 333207,
+                  "name": "تولید محتوا",
+                  "slug": "content-production",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333207"
+                },
+                {
+                  "id": 333215,
+                  "name": "رزومه و CV",
+                  "slug": "resume-and-cv",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333215"
+                },
+                {
+                  "id": 333117,
+                  "name": "اکسل (Excel)",
+                  "slug": "excel",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333117"
+                },
+                {
+                  "id": 333111,
+                  "name": "تدوین فیلم و ادیت عکس",
+                  "slug": "video-editing-photo-editing",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333111"
+                },
+                {
+                  "id": 2612,
+                  "name": "آموزش‌های عمومی",
+                  "slug": "general-courses",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=2612"
+                },
+                {
+                  "id": 333123,
+                  "name": "ورد (Word)",
+                  "slug": "word",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333123"
+                }
+              ]
+            },
+            {
+              "id": 235656,
+              "name": "زبان",
+              "slug": "language",
+              "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1b08ccf4ee-6-language.svg",
+              "url": "https://faradars.org/explore?category_ids=235656",
+              "mainurl": "https://faradars.org/how-to-learn/language-collection",
+              "children": [
+                {
+                  "id": 333295,
+                  "name": "آیلتس (IELTS)",
+                  "slug": "ielts",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333295"
+                },
+                {
+                  "id": 333139,
+                  "name": "آمادگی آزمون‌های زبان",
+                  "slug": "foreign-language-tests-preparation",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333139"
+                },
+                {
+                  "id": 333106,
+                  "name": "زبان انگلیسی",
+                  "slug": "english-language",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333106"
+                },
+                {
+                  "id": 333108,
+                  "name": "زبان آلمانی",
+                  "slug": "german-language",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333108"
+                },
+                {
+                  "id": 333116,
+                  "name": "زبان چینی",
+                  "slug": "chinese-language",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333116"
+                },
+                {
+                  "id": 333118,
+                  "name": "زبان عربی",
+                  "slug": "arabic-language",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333118"
+                },
+                {
+                  "id": 333110,
+                  "name": "زبان ترکی",
+                  "slug": "turkish-language",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333110"
+                },
+                {
+                  "id": 333107,
+                  "name": "زبان فرانسه",
+                  "slug": "french-language",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333107"
+                },
+                {
+                  "id": 333254,
+                  "name": "زبان ایتالیایی",
+                  "slug": "italian-language",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333254"
+                },
+                {
+                  "id": 333127,
+                  "name": "زبان اسپانیایی",
+                  "slug": "spanish",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333127"
+                }
+              ]
+            },
+            {
+              "id": 333230,
+              "name": "آموزش‌های دانشگاهی",
+              "slug": "academic-courses",
+              "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1b0a1606e1-7-university.svg",
+              "url": "https://faradars.org/explore?category_ids=333230",
+              "mainurl": "https://faradars.org/how-to-learn/academic-courses",
+              "children": [
+                {
+                  "id": 19815,
+                  "name": "دروس مشترک دانشگاهی",
+                  "slug": "university-exam-general",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=19815"
+                },
+                {
+                  "id": 19817,
+                  "name": "کارشناسی ارشد مهندسی برق",
+                  "slug": "university-exam-electrical",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=19817"
+                },
+                {
+                  "id": 1061,
+                  "name": "مهندسی صنایع",
+                  "slug": "industrial-engineering",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=1061"
+                },
+                {
+                  "id": 19816,
+                  "name": "کارشناسی ارشد مهندسی کامپیوتر",
+                  "slug": "university-exam-computer",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=19816"
+                },
+                {
+                  "id": 333308,
+                  "name": "علوم کامپیوتر",
+                  "slug": "computer-science",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333308"
+                },
+                {
+                  "id": 19818,
+                  "name": "کارشناسی ارشد عمران، صنایع و مکانیک",
+                  "slug": "university-exam-civil-industrial-mechanical",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=19818"
+                },
+                {
+                  "id": 333235,
+                  "name": "مهارت‌های دانشگاهی",
+                  "slug": "academic-skills",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333235"
+                },
+                {
+                  "id": 54234,
+                  "name": "مهندسی کامپیوتر",
+                  "slug": "computer-engineering",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=54234"
+                },
+                {
+                  "id": 92090,
+                  "name": "نگارش دانشگاهی",
+                  "slug": "academic-writing",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=92090"
+                },
+                {
+                  "id": 210919,
+                  "name": "روانشناسی",
+                  "slug": "psychology",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=210919"
+                }
+              ]
+            },
+            {
+              "id": 54236,
+              "name": "نرم‌افزار و فناوری اطلاعات",
+              "slug": "information-technology",
+              "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1b0b9ee574-8-information-technology.svg",
+              "url": "https://faradars.org/explore?category_ids=54236",
+              "mainurl": "https://faradars.org/how-to-learn/software-and-information-technology ",
+              "children": [
+                {
+                  "id": 333179,
+                  "name": "لینوکس",
+                  "slug": "linux",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333179"
+                },
+                {
+                  "id": 333170,
+                  "name": "سیستم عامل",
+                  "slug": "operating-system",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333170"
+                },
+                {
+                  "id": 333169,
+                  "name": "سخت‌افزار",
+                  "slug": "hardware",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333169"
+                },
+                {
+                  "id": 54235,
+                  "name": "شبکه‌های کامپیوتری",
+                  "slug": "computer-network",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=54235"
+                },
+                {
+                  "id": 333173,
+                  "name": "آردوینو",
+                  "slug": "arduino",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333173"
+                },
+                {
+                  "id": 333176,
+                  "name": "میکروکنترلر",
+                  "slug": "microcontroler",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333176"
+                },
+                {
+                  "id": 333171,
+                  "name": "مایکروسافت",
+                  "slug": "microsoft",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333171"
+                },
+                {
+                  "id": 333180,
+                  "name": "ویندوز سرور",
+                  "slug": "windows-server",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333180"
+                },
+                {
+                  "id": 333168,
+                  "name": "گواهینامه‌های IT",
+                  "slug": "it-certifications",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333168"
+                },
+                {
+                  "id": 333174,
+                  "name": "اینترنت اشیا",
+                  "slug": "internet-of-things",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333174"
+                }
+              ]
+            },
+            {
+              "id": 333209,
+              "name": "اقتصاد و حسابداری",
+              "slug": "economics-and-accounting",
+              "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1b11f05db5-9-economincs-and-accounting.svg",
+              "url": "https://faradars.org/explore?category_ids=333209",
+              "mainurl": "https://faradars.org/how-to-learn/academic-courses",
+              "children": [
+                {
+                  "id": 333101,
+                  "name": "ارزهای دیجیتال",
+                  "slug": "digital-currency",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333101"
+                },
+                {
+                  "id": 196579,
+                  "name": "بورس و بازار مالی",
+                  "slug": "stock-market",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=196579"
+                },
+                {
+                  "id": 216663,
+                  "name": "حسابداری و حسابرسی",
+                  "slug": "accounting",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=216663"
+                },
+                {
+                  "id": 333211,
+                  "name": "تحلیل بورس",
+                  "slug": "stock-market-analysis",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333211"
+                },
+                {
+                  "id": 2926,
+                  "name": "علوم اقتصادی و مالی",
+                  "slug": "economics-and-finance",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=2926"
+                },
+                {
+                  "id": 333210,
+                  "name": "آنالیز مالی",
+                  "slug": "financial-analysis",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333210"
+                },
+                {
+                  "id": 333290,
+                  "name": "متاتریدر",
+                  "slug": "meta-trader",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333290"
+                },
+                {
+                  "id": 333212,
+                  "name": "سرمایه‌گذاری",
+                  "slug": "investment",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333212"
+                }
+              ]
+            },
+            {
+              "id": 333220,
+              "name": "کودکان و نوجوانان",
+              "slug": "children-and-teenagers",
+              "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1b14d7b00e-10-children-and-adolescents.svg",
+              "url": "https://faradars.org/explore?category_ids=333220",
+              "mainurl": "https://faradars.org/how-to-learn/students-and-teenagers",
+              "children": [
+                {
+                  "id": 3099,
+                  "name": "مهارت‌های کودکان و نوجوانان",
+                  "slug": "faradars-for-k12",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=3099"
+                },
+                {
+                  "id": 333249,
+                  "name": "دروس دانش‌آموزی",
+                  "slug": "school-and-high-school-courses",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333249"
+                },
+                {
+                  "id": 333255,
+                  "name": "پایه هفتم",
+                  "slug": "7th-grade",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333255"
+                },
+                {
+                  "id": 333256,
+                  "name": "پایه هشتم",
+                  "slug": "8th-grade",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333256"
+                },
+                {
+                  "id": 333257,
+                  "name": "پایه نهم",
+                  "slug": "9th-grade",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333257"
+                },
+                {
+                  "id": 333258,
+                  "name": "پایه دهم",
+                  "slug": "10th-grade",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333258"
+                },
+                {
+                  "id": 333259,
+                  "name": "پایه یازدهم",
+                  "slug": "11th-grade",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333259"
+                },
+                {
+                  "id": 333260,
+                  "name": "پایه دوازدهم",
+                  "slug": "12th-grade",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333260"
+                },
+                {
+                  "id": 333299,
+                  "name": "کنکور کارشناسی و المپیاد",
+                  "slug": "concours-and-olympiad-of--bachelor",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333299"
+                },
+                {
+                  "id": 333250,
+                  "name": "دوره ابتدایی",
+                  "slug": "primary-school",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=333250"
+                }
+              ]
+            },
+            {
+              "id": 319809,
+              "name": "نابینایان و ناشنوایان",
+              "slug": "blind-and-deaf",
+              "icon": "https://faradars.org/wp-content/uploads/2025/08/17/68a1b15f60d6e-11-blinds-and-deafs.svg",
+              "url": "https://faradars.org/explore?category_ids=319809",
+              "mainurl": "https://faradars.org/how-to-learn/for-blind-and-deaf",
+              "children": [
+                {
+                  "id": 320109,
+                  "name": "ناشنوایان",
+                  "slug": "deaf",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=320109"
+                },
+                {
+                  "id": 320108,
+                  "name": "نابینایان",
+                  "slug": "blind",
+                  "icon": "",
+                  "url": "https://faradars.org/explore?category_ids=320108"
+                }
+              ]
+            }
+          ],
+          "statistics": {
+            "categoriesCount": 300,
+            "countOfProducts": 19000,
+            "sumOfProductTimes": 35000,
+            "studentsCount": 5100000,
+            "instructorsCount": 3200,
+            "sumOfRegisteredProductTimes": 85000000,
+            "learningDurationPhysicalBenchmark": 48,
+            "productsVelocityPublication": 420,
+            "studentsCourseCount": 14000000,
+            "faradarsBornYear": "1387",
+            "faradarsBornMonth": "آذر",
+            "faradarsAgeDay": 6511.027405099803,
+            "faradarsAgeYear": 17.82747234273919,
+            "updateDateStatic": "1405/6/28",
+            "updateTimeStatic": "14:30"
+          },
+          "footer": {
+            "links": [
+              {
+                "title": "تماس با ما",
+                "address": "/contact-us",
+                "image": null
+              },
+              {
+                "title": "سوالات رایج",
+                "address": "/faq",
+                "image": null
+              },
+              {
+                "title": "همکاری در فرادرس",
+                "address": "/jobs",
+                "image": null
+              },
+              {
+                "title": "تدریس در فرادرس",
+                "address": "/teaching",
+                "image": null
+              },
+              {
+                "title": "اشتراک فرادرس",
+                "address": "/subscription",
+                "image": null
+              },
+              {
+                "title": "درباره ما",
+                "address": "/about-us",
+                "image": null
+              },
+              {
+                "title": "آموزش سازمانی",
+                "address": "/faradars-for-organizations",
+                "image": null
+              },
+              {
+                "title": "حریم خصوصی",
+                "address": "/privacy-policy",
+                "image": null
+              },
+              {
+                "title": "مجله فرادرس",
+                "address": "https://blog.faradars.org/",
+                "image": null
+              },
+              {
+                "title": "استعلام گواهینامه",
+                "address": "/verify",
+                "image": null
+              }
+            ],
+            "content": {
+              "summary": "<p style=\"text-align:justify\">سازمان علمی و آموزشی فرادرس، بزرگ&zwnj;ترین پلتفرم آموزش آنلاین ایران است که طی بیش از یک دهه فعالیت خود، بالغ بر {{sumOfProductTimes}} ساعت آموزش آنلاین، در قالب بیش از {{countOfProducts}} عنوان آموزشی علمی، مهارتی و کاربردی، منتشر کرده&zwnj;است.</p>",
+              "description": "<p style=\"text-align:justify\">فرادرس با پایبندی به شعار &laquo;دانش در دسترس همه، همیشه و همه جا&raquo; و همکاری با بیش از {{instructorsCount}} مدرس برجسته در&nbsp;<a class=\"text-[#1e88e5]\" href=\"/explore-topics\">زمینه&zwnj;های علمی گوناگون </a>از جمله:&nbsp;<a class=\"text-[#1e88e5]\" href=\"/how-to-learn/statistics\">آمار و داده&zwnj;کاوی</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/artificial-intelligence\">هوش مصنوعی</a>،&nbsp;<a class=\"text-[#1e88e5]\" href=\"/how-to-learn/programming\">برنامه&zwnj;نویسی</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/photoshop-computer-design-and-graphics\">طراحی و گرافیک کامپیوتری</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/academic-courses\">آموزش&zwnj;های دانشگاهی و تخصصی</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/computer-applications\">آموزش نرم&zwnj;افزارهای گوناگون</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/high-school-and-pre-university-courses\">دروس رسمی دبیرستان و پیش دانشگاهی</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/students-and-teenagers\">آموزش&zwnj;های دانش&zwnj;آموزی و نوجوانان</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/foreign-languages\">آموزش زبان&zwnj;های خارجی</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/electrical-engineering-software\">مهندسی برق، الکترونیک</a> و <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/robotics\">رباتیک</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/control-engineering\">مهندسی کنترل</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/mechanical-engineering\">مهندسی مکانیک</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/chemical-engineering\">مهندسی شیمی</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/industrial-engineering\">مهندسی صنایع</a>، <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/architect-engineering\">مهندسی معماری</a> و <a class=\"text-[#1e88e5]\" href=\"/how-to-learn/civil-engineering\">مهندسی عمران</a>، بستری را فراهم کرده&zwnj;است تا افراد با شرایط مختلف زمانی، مکانی و جسمانی، بتوانند با بهره&zwnj;گیری از آموزش&zwnj;های با کیفیت، به&zwnj;روز و مهارت&zwnj;محور، همواره به یادگیری بپردازند.</p>\r\n\r\n<p style=\"text-align:justify\">با پیوستن به جامعه&zwnj;ی میلیونی فرادرس و استفاده از آموزش&zwnj;های آن، می&zwnj;توانید مسیر یادگیری و مهارت&zwnj;آموزی را ساده&zwnj;تر و مؤثرتر تجربه کنید.</p>"
+            },
+            "register_in_newsletter": true,
+            "brand": {
+              "description": "FaraDars",
+              "image": "https://faradars.org/wp-content/uploads/2026/09/08/faradars.svg"
+            },
+            "permissions": [
+              {
+                "title": "مجوز نشر دیجیتال از وزرات فرهنگ و ارشاد اسلامی",
+                "address": "https://trustseal.enamad.ir/?id=171748&amp;Code=lSjvcedOpnpW6NHqnXD7",
+                "image": "https://faradars.org/wp-content/uploads/2023/01/12/5ff756287da19-nashr-min.png"
+              },
+              {
+                "title": "logo-samandehi",
+                "address": "https://logo.samandehi.ir/logo.aspx?id=34927&p=qftishwlbsiyodrfyndt",
+                "image": "https://faradars.org/wp-content/uploads/2023/05/03/screenshot 2023-05-03 at 2.33.21 pm.png"
+              }
+            ],
+            "social": null
+          }
+        },
+        "status": true
+      },
+      "err": null
+    },
+    "__N_SSP": true
+  },
+  "page": "/how-to-learn/[slug]",
+  "query": {
+    "slug": "python-programming"
+  },
+  "buildId": "sDetwejsR0y6feSmt-2ne",
+  "isFallback": false,
+  "isExperimentalCompile": false,
+  "gssp": true,
+  "appGip": true,
+  "locale": "fa",
+  "locales": [
+    "fa"
+  ],
+  "defaultLocale": "fa",
+  "scriptLoader": []
+}

@@ -1,3 +1,4 @@
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service 
 from selenium.webdriver.common.by import By 
@@ -8,7 +9,7 @@ import time
 from booking.constants import BASE_URL, PATH_DRIVER
 
 
-class Booking(webdriver.Chrome):
+class Booking(webdriver.Chrome):       
     def __init__(self, driver_path = PATH_DRIVER, teardown=False):
         self.teardown = teardown #بستن مرورگر
         options = webdriver.ChromeOptions()
@@ -26,7 +27,7 @@ class Booking(webdriver.Chrome):
     def land_first_page(self):
         self.get(BASE_URL)
         time.sleep(5)
-   
+
     def change_currency(self, currency):
 
         if currency == "USD":

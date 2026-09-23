@@ -13,7 +13,6 @@ try:
         bot.search_button()
         bot.apply_filterations()
         bot.report_results()
- 
         input('press enter to close')
 
 except Exception as e:
